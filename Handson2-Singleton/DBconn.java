@@ -1,4 +1,4 @@
-package Singleton;
+package Handson2-Singleton;
 
 public class DBconn {
 	private static DBconn obj = new DBconn();

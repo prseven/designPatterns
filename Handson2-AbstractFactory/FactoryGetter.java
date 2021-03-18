@@ -1,4 +1,4 @@
-package AbstractFactory;
+package Handson2-AbstractFactory;
 
 public class FactoryGetter {
 	public static Factory getFactory(String brand) {

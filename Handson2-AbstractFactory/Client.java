@@ -1,4 +1,4 @@
-package AbstractFactory;
+package Handson2-AbstractFactory;
 
 import java.util.Scanner;
 

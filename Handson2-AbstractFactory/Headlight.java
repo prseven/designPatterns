@@ -1,4 +1,4 @@
-package AbstractFactory;
+package Handson2-AbstractFactory;
 
 public abstract class Headlight {
 	public Headlight(String brand) {
